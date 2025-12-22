@@ -8,5 +8,14 @@ email = "Phat123@gmail.com"
 
 # Integers
 age = 19
+quantity = 3
+num_of_students = 30
 
-print(f"You are {age} years old")
+# Float
+price = 10.99
+gpa = 3.6
+distance = 5.5
+
+# Boolean
+is_student = True
+is_teacher = False
